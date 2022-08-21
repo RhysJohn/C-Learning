@@ -7,4 +7,9 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="5kyu" />
+      <Folder Include="6kyu" />
+    </ItemGroup>
+
 </Project>
